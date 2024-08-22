@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "zazikifarming:driedapple"
+    },
+    "L": {
+      "item": "zazikifarming:potatostarch"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    }
+  },
+  "pattern": [
+    "#L#",
+    "PPP"
+  ],
+  "result": {
+    "item": "minecraft:leather"
+  },
+  "show_notification": true
+}

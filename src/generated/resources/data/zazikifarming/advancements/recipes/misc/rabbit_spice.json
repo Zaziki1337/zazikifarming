@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_rabbit_spice": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zazikifarming:paprika_spice"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "zazikifarming:rabbit_spice"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_rabbit_spice",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "zazikifarming:rabbit_spice"
+    ]
+  },
+  "sends_telemetry_event": false
+}

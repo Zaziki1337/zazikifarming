@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.0,
+  "group": "driedpaprika",
+  "ingredient": {
+    "item": "zazikifarming:paprika"
+  },
+  "result": "zazikifarming:dried_paprika"
+}

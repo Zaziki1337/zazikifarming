@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_agave": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "zazikifarming:agave"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "zazikifarming:honeycomb_from_blasting_agave"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_agave",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "zazikifarming:honeycomb_from_blasting_agave"
+    ]
+  },
+  "sends_telemetry_event": false
+}

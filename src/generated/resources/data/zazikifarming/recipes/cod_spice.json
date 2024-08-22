@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zazikifarming:salt"
+    },
+    {
+      "item": "zazikifarming:onion"
+    },
+    {
+      "item": "zazikifarming:pepper"
+    }
+  ],
+  "result": {
+    "item": "zazikifarming:cod_spice"
+  }
+}

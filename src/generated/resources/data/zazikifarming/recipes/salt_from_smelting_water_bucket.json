@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.0,
+  "group": "salt",
+  "ingredient": {
+    "item": "minecraft:water_bucket"
+  },
+  "result": "zazikifarming:salt"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "zazikifarming:bone_fragments"
+    },
+    "S": {
+      "item": "zazikifarming:potatostarch"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "WSW",
+    "FFF"
+  ],
+  "result": {
+    "item": "minecraft:bone"
+  },
+  "show_notification": true
+}

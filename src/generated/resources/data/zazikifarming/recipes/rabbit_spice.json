@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zazikifarming:paprika_spice"
+    },
+    {
+      "item": "zazikifarming:coriander_ground"
+    },
+    {
+      "item": "zazikifarming:pepper"
+    }
+  ],
+  "result": {
+    "item": "zazikifarming:rabbit_spice"
+  }
+}

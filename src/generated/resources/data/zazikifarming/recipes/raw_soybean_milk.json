@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zazikifarming:soaked_soybean"
+    },
+    {
+      "item": "zazikifarming:masher"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:bucket"
+    }
+  ],
+  "result": {
+    "item": "zazikifarming:raw_soybean_milk"
+  }
+}

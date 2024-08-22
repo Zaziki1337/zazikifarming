@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zazikifarming:paprika_spice"
+    },
+    {
+      "item": "zazikifarming:salt"
+    },
+    {
+      "item": "minecraft:sugar"
+    }
+  ],
+  "result": {
+    "item": "zazikifarming:chicken_spice"
+  }
+}

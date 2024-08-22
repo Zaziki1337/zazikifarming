@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "zazikifarming:cotton_string"
+    },
+    "S": {
+      "item": "zazikifarming:sap"
+    }
+  },
+  "pattern": [
+    " C ",
+    "CCC",
+    "CSC"
+  ],
+  "result": {
+    "item": "minecraft:feather"
+  },
+  "show_notification": true
+}

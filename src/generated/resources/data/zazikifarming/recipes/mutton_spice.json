@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zazikifarming:parsley"
+    },
+    {
+      "item": "zazikifarming:rosemary"
+    },
+    {
+      "item": "zazikifarming:pepper"
+    }
+  ],
+  "result": {
+    "item": "zazikifarming:mutton_spice"
+  }
+}

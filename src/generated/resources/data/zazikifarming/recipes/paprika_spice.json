@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "zazikifarming:dried_paprika"
+    },
+    {
+      "item": "zazikifarming:mixer"
+    }
+  ],
+  "result": {
+    "item": "zazikifarming:paprika_spice"
+  }
+}

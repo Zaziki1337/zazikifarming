@@ -1,0 +1,54 @@
+{
+    "item.zazikifarming.masher": "Masher",
+    "item.zazikifarming.spinningwheel": "Spinning Wheel",
+    "item.zazikifarming.mixer": "Mixer",
+    "item.zazikifarming.geological_hammer": "Geological Hammer",
+    "item.zazikifarming.wood_tapper": "Wood Tapper",
+
+    "item.zazikifarming.driedapple": "Dried Apple",
+    "item.zazikifarming.potatostarch": "Potato Starch",
+
+    "item.zazikifarming.cotton_seeds": "Cotton Seeds",
+    "item.zazikifarming.cotton_crop": "Cotton Crops",
+    "item.zazikifarming.rawcotton": "Raw Cotton",
+    "item.zazikifarming.cotton_string": "Cotton String",
+
+    "item.zazikifarming.soybean_seeds": "Soybean Seeds",
+    "item.zazikifarming.soybean": "Soybean",
+    "item.zazikifarming.soaked_soybean": "Soaked Soybean",
+    "item.zazikifarming.raw_soybean_milk": "Raw Soybean Milk",
+
+    "item.zazikifarming.pepper_seeds": "Pepper Seeds",
+    "item.zazikifarming.pepper": "Pepper",
+
+    "item.zazikifarming.paprika_seeds": "Paprika Seeds",
+    "item.zazikifarming.paprika": "Paprika",
+    "item.zazikifarming.dried_paprika": "Dried Paprika",
+    "item.zazikifarming.paprika_spice": "Paprika Spice",
+
+    "item.zazikifarming.steak_spice": "Steak Spice",
+    "item.zazikifarming.salt": "Salt",
+    "item.zazikifarming.chicken_spice": "Chicken Spice",
+    "item.zazikifarming.pork_spice": "Pork Spice",
+    "item.zazikifarming.fish_spice": "Fish Spice",
+    "item.zazikifarming.rabbit_spice": "Rabbit Spice",
+    "item.zazikifarming.mutton_spice": "Mutton Spice",
+    "item.zazikifarming.cod_spice": "Cod Spice",
+
+    "item.zazikifarming.calcium_sulphate": "Calcium Sulphate",
+    "item.zazikifarming.raw_tofu": "Raw Tofu",
+
+    "item.zazikifarming.onion": "Onion",
+
+    "item.zazikifarming.parsley": "Parsley",
+
+    "item.zazikifarming.coriander": "Coriander",
+    "item.zazikifarming.coriander_ground": "Grounded Coriander",
+
+    "item.zazikifarming.rosemary": "Rosemary",
+
+    "item.zazikifarming.agave": "Agave",
+    "item.zazikifarming.agave_seeds": "Agave Seeds",
+
+    "item.zazikifarming.bone_fragments": "Bone Fragments"
+}
