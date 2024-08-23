@@ -2,6 +2,7 @@ package de.zaziki.ZazikiFarming;
 
 import com.mojang.logging.LogUtils;
 
+import de.zaziki.ZazikiFarming.item.ModCreativeModTabs;
 import de.zaziki.ZazikiFarming.block.ModBlocks;
 import de.zaziki.ZazikiFarming.item.ModItems;
 import de.zaziki.ZazikiFarming.loot.ModLootModifiers;
@@ -33,6 +34,8 @@ public class ZazikiFarming
     public ZazikiFarming()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModCreativeModTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);

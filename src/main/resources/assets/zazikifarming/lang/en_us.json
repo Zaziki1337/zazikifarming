@@ -1,9 +1,16 @@
 {
+    "creativetab.zazikifarming_tab": "Zazikis Vegan Farming",
+
     "item.zazikifarming.masher": "Masher",
+    "tooltip.zazikifarming.masher.tooltip": "Used to smash various things.",
     "item.zazikifarming.spinningwheel": "Spinning Wheel",
+    "tooltip.zazikifarming.spinningwheel.tooltip": "Used to process different fabrics.",
     "item.zazikifarming.mixer": "Mixer",
+    "tooltip.zazikifarming.mixer.tooltip": "Used to mix things together.",
     "item.zazikifarming.geological_hammer": "Geological Hammer",
+    "tooltip.zazikifarming.geological_hammer.tooltip": "Used to get additional minerals during mining.",
     "item.zazikifarming.wood_tapper": "Wood Tapper",
+    "tooltip.zazikifarming.wood_tapper.tooltip": "Used to extract the sap from trees.",
 
     "item.zazikifarming.driedapple": "Dried Apple",
     "item.zazikifarming.potatostarch": "Potato Starch",
